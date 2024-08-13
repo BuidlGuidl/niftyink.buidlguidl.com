@@ -16,8 +16,8 @@ export const Header = () => (
       <meta property="og:title" content="NiftyInk" />
       <meta property="og:description" content="Funding BuidlGuidl members working on NiftyInk." />
       <meta name="twitter:card" content="summary_large_image" />
-      <meta property="og:image" content="https://niftyink.buidlguidl.com/thumbnail.png" />
-      <meta property="twitter:image" content="https://niftyink.buidlguidl.com/thumbnail.png" />
+      <meta property="og:image" content="https://niftyink.buidlguidl.com/Niftyink-unfurl.png" />
+      <meta property="twitter:image" content="https://niftyink.buidlguidl.com/Niftyink-unfurl.png" />
     </Head>
     <div className="sticky lg:static top-0 navbar bg-base-100 min-h-0 flex-shrink-0 justify-between z-20 p-4 items-start">
       <div className="flex-col items-start">
