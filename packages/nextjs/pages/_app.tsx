@@ -19,7 +19,7 @@ import "~~/styles/globals.css";
 const shareTechMono = Share_Tech_Mono({ subsets: ["latin"], weight: "400" });
 
 const urqlClient = new Client({
-  url: "http://localhost:42069",
+  url: "https://bg-ponder-indexer-production.up.railway.app/",
   exchanges: [cacheExchange, fetchExchange],
 });
 
